@@ -4,6 +4,7 @@
 Projeto desenvolvido para o curso da Growdev, com o intuito de desenvolver uma API de login e mensagens utilizando o Express
 
 ## Dependências utilizadas
+* NPM
 * nodemon
 * sucrase
 
